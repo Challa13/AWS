@@ -1,0 +1,19 @@
+===================================================
+Source : https://aws.amazon.com/products/compute/
+===================================================
+Compute-services
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Category                       |                             Service description                                       
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Instances (virtual machines)
+
+ (i) AWS Elastic Beanstalk --> Run and manage web apps --> Easy-to-use service for deploying and scaling web applications and services
+(ii) Amazon Elastic Compute Cloud (EC2) --> Secure and resizable compute(virtual servers) capacity in the cloud. Launch applications when needed without upfront commitments.
+(iii) Amazon EC2 Spot --> Take advantage of unused EC2 capacity in the AWS cloud. Spot Instances are available at up to a 90% discount compared to On-Demand prices.
+(iv) Amazon EC2 Auto Scaling --> Maintain application availability and automatically add or remove EC2 instances according to conditions you define.
+(v) Amazon Lightsail --> Virtual servers, storage, databases, and networking for a low, predictable price.
+(vi) AWS Batch --> Run batch jobs at any scale.
+(vii) Amazon Elastic Container Service (ECS) --> Run and manage Docker containers.
+(viii) Amazon Elastic Kubernetes Service (EKS) --> Run managed Kubernetes on AWS.
+(ix) AWS Fargate --> Run containers without managing servers or clusters.
+(x)
