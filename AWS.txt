@@ -1,0 +1,45 @@
+========================================================================================
+Source from aws.amazon.com
+========================================================================================
+Cloud Benefits 
+=====================
+1.No Upfront Cost (Hardware Expenditure ie., No need to maintain servers)
+2.Pay as you go (How much you can use pay for that)
+3.Go global in a minute
+
+There are four main types of cloud computing:
+-->private clouds (Owned by companies)
+-->public clouds (AWS,Azue,GCP,Oracle cloud, IBM Cloud)
+-->hybrid clouds (Both public and private)
+-->multiclouds
+
+There are also three main types of cloud computing services: 
+-->Infrastructure-as-a-Service (IaaS)
+-->Platforms-as-a-Service (PaaS)
+-->Software-as-a-Service (SaaS)
+
+What AWS Offers
+----------------
+1.Reliability
+2.Scalability
+3.Security
+4.Cost effectiveness
+
+Core Services
+---------------
+1.Compute
+2.Storage
+3.Databases
+4.Networking
+
+AWS Globe : https://aws.amazon.com/about-aws/global-infrastructure/
+
+AWS Global Infrastructure Map
+---------------------------------
+The AWS Cloud spans 105 Availability Zones within 33 geographic regions, with announced plans for 18 more Availability Zones and six more AWS Regions in Malaysia, Mexico, New Zealand, the Kingdom of Saudi Arabia, Thailand, and the AWS European Sovereign Cloud.
+
+Region :- Collection of 2 or more avialability zones
+AZ :- Collection of 1 or more data centers (Az's are High Availability distance between Az are 100 km)
+Datacenters :- Datacenters are collection of physical servers
+
+
