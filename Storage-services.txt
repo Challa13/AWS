@@ -1,0 +1,6 @@
+Storage-services
+
+S3
+EFS
+FSx
+EBS
