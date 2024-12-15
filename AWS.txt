@@ -42,4 +42,7 @@ Region :- Collection of 2 or more avialability zones
 AZ :- Collection of 1 or more data centers (Az's are High Availability distance between Az are 100 km)
 Datacenters :- Datacenters are collection of physical servers
 
+For 9999's calculation 
+-----------------------------
+https://uptime.is/
 
